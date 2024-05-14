@@ -5848,7 +5848,7 @@
     <a name="appearance" val="logisim_evolution"/>
     <a name="circuit" val="THANK_U"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
-    <a name="simulationFrequency" val="64.0"/>
+    <a name="simulationFrequency" val="2048000.0"/>
     <comp lib="0" loc="(250,140)" name="Clock"/>
     <comp lib="0" loc="(570,170)" name="Splitter">
       <a name="bit1" val="0"/>
